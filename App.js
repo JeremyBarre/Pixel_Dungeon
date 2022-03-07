@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Non non non, vous n'avez pas dit le mot magique !</Text>
+      <Text>Saperlipopuut !!</Text>
       <StatusBar style="auto" />
     </View>
   );
